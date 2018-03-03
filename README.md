@@ -1,5 +1,5 @@
 # Serpientes-Escaleras
-Proyecto de las Serpientes y las escaleras
-Alumnos:
-Jose Arturo Aguilera Romero
+Proyecto de las Serpientes y las escaleras <br>
+Alumnos: <br>
+Jose Arturo Aguilera Romero <br>
 Cristian Alexis Lazo Garcia
